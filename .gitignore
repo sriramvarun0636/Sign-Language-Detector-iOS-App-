@@ -1,6 +1,12 @@
-# Ignore Python virtual environments
+# Ignore Python and iOS builds
 venv/
 signenv/
 signenv39/
 __pycache__/
 *.pyc
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+DerivedData/
+build/
