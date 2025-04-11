@@ -9,4 +9,4 @@ __pycache__/
 *.xcworkspace
 *.xcuserdata
 DerivedData/
-build/
+build
